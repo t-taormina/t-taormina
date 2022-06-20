@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Bachelors degree at Portland State University, learning the Rust programming language, and getting my first developer job.
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
