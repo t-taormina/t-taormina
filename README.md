@@ -1,7 +1,7 @@
 ### Welcome To Tyler's Repository 
 
 - I’m currently an Undergrad studying Computer Science at Portland State University.
-- 💻 Presently I am having fun with embedded software development in Rust on a STM32F303VCT6 microcontroller as well as all things C/C++ for University.
+- 💻 Presently, I am having fun with embedded software development in Rust on a STM32F303VCT6 microcontroller as well as all things C/C++ for University.
 - 📫 I can be reached by my email tktaormina@gmail.com or my twitter @TylerTaormina
 - Pronouns: He/Him/His
 <!--
