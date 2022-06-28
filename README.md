@@ -1,10 +1,9 @@
 ### Welcome To Tyler's Repository 
 
-- I’m currently working on my Bachelors degree in Computer Science at Portland State University and am starting my junior year.
-- 💻 I’m currently learning distributed systems in Rust as well as all things C/C++ for University.
+- I’m currently an Undergrad studying Computer Science at Portland State University.
+- 💻 I’m currently having fun with embedded software development in Rust on a STM32F303VCT6 microcontroller as well as all things C/C++ for University.
 - 📫 I can be reached by my email tktaormina@gmail.com or my twitter @TylerTaormina
 - Pronouns: He/Him/His
-- ⚽️ YNWA -- Liverpool Football Club 
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
