@@ -1,7 +1,10 @@
 ### Welcome To Tyler's Repository 
 
 - I’m currently an Undergrad studying Computer Science at Portland State University.
-- 💻 Presently, I am having fun with embedded software development in Rust on a STM32F303VCT6 microcontroller as well as all things C/C++ for University.
+- 💻 Presently, I am having fun with embedded software development in Rust on a STM32F303VCT6 microcontroller as well as working through CTF's on TryHackMe and other platforms.
+- Rust
+- Python
+- C/C++
 - 📫 I can be reached by my email tktaormina@gmail.com or my twitter @TylerTaormina
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
