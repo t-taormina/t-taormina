@@ -1,10 +1,8 @@
 ### Welcome 
 
-- I’m currently an Undergrad studying Computer Science at Portland State University.
-- 💻 I am working on projects in Python and C++ at the moment. When I have free time from school and work, I also like to write things in rust. With rust I am specifically working on writing programs for microcontrollers. 
-- Python
-- C/C++
-- Rust
+- My name is Tyler.
+- I work at Apple as a Technical Specialist and am an Undergrad studying Computer Science at Portland State University.
+- I am currently working on projects using Python, Swift, and C++. 
 - 📫 I can be reached by my email tktaormina@gmail.com or taormina@pdx.edu
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
