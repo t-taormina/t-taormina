@@ -2,8 +2,8 @@
 
 - My name is Tyler.
 - I work at Apple as a Quality Assurance Engineer and am an Undergrad studying Computer Science at Portland State University.
-- I am currently building projects using Python, Swift, and C++. 
-- 📫 I can be reached by my email tktaormina@gmail.com or taormina@pdx.edu
+- I am currently working on projects using Swift, Python, and C++. 
+- I can be reached by my email tktaormina@gmail.com or taormina@pdx.edu
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
