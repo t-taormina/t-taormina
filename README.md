@@ -1,8 +1,8 @@
 ### Welcome 
 
 - My name is Tyler.
-- I am working at Apple as a Quality Assurance Engineer and am an Undergrad studying Computer Science at Portland State University.
-- I am currently building projects mostly in C but occasionally will use some Python or Rust as well. 
+- I am an Undergrad studying Computer Science at Portland State University.
+- I am currently building projects mostly in C and Rust but occasionally will use some Python or Typescript as well. 
 - I can be reached by my email tktaormina@gmail.com or taormina@pdx.edu
 - <-- These are my dogs Ollie and Arlo from left to write();
 <!--
