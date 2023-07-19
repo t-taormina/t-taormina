@@ -4,7 +4,7 @@
 - I am an Undergrad studying Computer Science at Portland State University.
 - I am currently building projects mostly in C and Rust but occasionally will use some Python or Typescript as well. 
 - I can be reached by my email tktaormina@gmail.com or taormina@pdx.edu
-- <-- These are my dogs Ollie and Arlo from left to write();
+- <-- These are my dogs Ollie and Arlo from left to write;
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
