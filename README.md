@@ -2,7 +2,7 @@
 
 - My name is Tyler.
 - I am an Undergrad studying Computer Science at Portland State University.
-- I am currently building projects mostly Rust and Java
+- I am currently building projects in Rust and Java
 - I can be reached by my email taormina.dev@gmail.com
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
