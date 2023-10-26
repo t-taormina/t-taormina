@@ -1,7 +1,7 @@
 ### Welcome 
 
 - My name is Tyler.
-- I am an Undergrad studying Computer Science at Portland State University(Est Grad Winter 2023).
+- I am an Undergrad studying Computer Science at Portland State University(Est Grad Spring 2024).
 - I am currently building projects in Rust and Java
 - I can be reached by my email taormina.dev@gmail.com
 <!--
