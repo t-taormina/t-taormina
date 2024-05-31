@@ -3,7 +3,7 @@
 - My name is Tyler Taormina.
 - I am an Undergrad studying Computer Science at Portland State University(Est Grad Spring 2024).
 - I am currently building projects in C and Python
-- I am also starting to keep writeups from CTFs in my Security repository. I generally work on reverse engineering and web problems. 
+- I am also starting to keep writeups from CTFs in the Security repository. I generally work on reverse engineering. web, and pwn problems. 
 - I can be reached by my email taormina.dev@gmail.com
 <!--
 **till-t/till-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
