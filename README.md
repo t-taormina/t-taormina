@@ -1,7 +1,7 @@
 ### Welcome 
 
 - My name is Tyler Taormina.
-- I am an Undergrad studying Computer Science at Portland State University(Est Grad Spring 2024).
+- BS in Computer Science from Portland State University
 - I am currently building projects in C and Python
 - I am also starting to keep writeups for interesting CTF problems in the Security repository. I generally work on reverse engineerin, web, and pwn problems. 
 - I can be reached by my email taormina.dev@gmail.com 📫
